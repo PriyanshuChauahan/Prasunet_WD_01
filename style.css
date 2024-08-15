@@ -76,6 +76,11 @@
     border-bottom: 2px solid  rgb(192, 188, 188);
 
 }
+
+.btn:hover{
+    background-color: rgb(9, 70, 9);
+
+}
 footer{
     padding: 23px;
     text-align: center;
